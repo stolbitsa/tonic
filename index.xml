@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>tonic</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="master-and-servant-octaves"/>
   <readme>
-    <en>4c79af82732df8798e23a3c6e28889ec0f903228c49bc7cae1e6124b7ae23651</en>
-    <ru>366e37c0322559ef4b53a25b55fa00a9ca90b9f9defb79277951d68079e6de3e</ru>
+    <ru>5087a3f4a594b477bdca67f344326cc9c4a116e1d0da3e25f4a83c0d8d0378e1</ru>
+    <en>1901dd00ebf00f335a1df79b8bdec217dbdad8578a6b4e82276d3bdb81eaf76b</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
