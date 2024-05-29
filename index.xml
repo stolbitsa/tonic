@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>tonic</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="master-and-servant-octaves"/>
   <readme>
     <ru>eece76e22f8935e0188b2eafce111ad2d47993aef545ed236816c529e49fb48a</ru>
@@ -13,7 +13,7 @@
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <tonalities>10</tonalities>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -24,7 +24,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>9</tonalities>
-    <video name="Somewhere12.mp4" size="565457" type="video/mp4">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
+    <video name="Somewhere12.mp4" size="565457" type="video/mp4" volume="1">ec3d82132eb861dae481f7cf9fcaa7def4ae589008ec1b6d8bc0b97220b91133</video>
     <notes>
       <note number="1" values="1" ticks="224" durationTicks="324" ppq="192" velocity="0.219"/>
       <note number="2" values="18" ticks="560" durationTicks="189" ppq="192" velocity="0.224"/>
@@ -35,7 +35,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="dance_silent1.mp4" size="1056551" type="video/mp4">3a80b8bf7d9f7e24b44c6b0c3182a9772a1d68aefda03bcc305d651e7be9c75a</video>
+    <video name="dance_silent1.mp4" size="1056551" type="video/mp4" volume="1">3a80b8bf7d9f7e24b44c6b0c3182a9772a1d68aefda03bcc305d651e7be9c75a</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -72,7 +72,7 @@
     <bpm>68</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
-    <video name="CelineD5_0.mp4" size="316957" type="video/mp4">6bb1bbe59c6d206ec18cafdbe79208ec47a545752643e14167cb2ec0f68245c0</video>
+    <video name="CelineD5_0.mp4" size="316957" type="video/mp4" volume="1">6bb1bbe59c6d206ec18cafdbe79208ec47a545752643e14167cb2ec0f68245c0</video>
     <notes>
       <note number="1" values="1" ticks="134" durationTicks="85" ppq="192" velocity="0.803"/>
       <note number="2" values="18" ticks="253" durationTicks="132" ppq="192" velocity="0.803"/>
@@ -107,7 +107,7 @@
     <bpm>90</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
-    <video name="CelineNothing1.mp4" size="421264" type="video/mp4">27121f8eb91f5320aba063e06428d674cb89d2d7a6e2a0ce99b9ccb734b83307</video>
+    <video name="CelineNothing1.mp4" size="421264" type="video/mp4" volume="1">27121f8eb91f5320aba063e06428d674cb89d2d7a6e2a0ce99b9ccb734b83307</video>
     <notes>
       <note number="1" values="1" ticks="175" durationTicks="151" ppq="192" velocity="0.354"/>
       <note number="2" values="18" ticks="362" durationTicks="358" ppq="192" velocity="0.366"/>
