@@ -33,6 +33,12 @@
   Это первое расстояние, которое мы научимся определять на слух.
 <br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+# 👇 WATCH THIS VIDEO BEFORE YOU START 👇
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZHIYL-_FjJU?si=lKB8L76MOuC2BJxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
   [Stolbitsa](https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D1%8A%D0%BB%D0%B1%D0%B8%D1%86%D0%B0%D1%82%D0%B0) is a method invented in early 20th century by Bulgarian composer and music teacher [Boris Trichkov](https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%A2%D1%80%D0%B8%D1%87%D0%BA%D0%BE%D0%B2)
   The word "stolbitsa" means "staircase" in Bulgarian. The 12 notes of the octave are presented as 13 steps of a staircase (the first note is repeated twice) and are displayed as bars of different length and color.
 
