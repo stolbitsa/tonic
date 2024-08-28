@@ -1,4 +1,8 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+  # 👇 КАК ПОЛЬЗОВАТЬСЯ ПРИЛОЖЕНИЕМ 👇
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_ShEVObUGnY?si=6YynsBcxRWGCZcx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
   [Столбица](https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D1%8A%D0%BB%D0%B1%D0%B8%D1%86%D0%B0%D1%82%D0%B0) это метод, который изобрёл в начале 20 века болгарский композитор и музыкальный педагог [Борис Тричков](https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%A2%D1%80%D0%B8%D1%87%D0%BA%D0%BE%D0%B2)
   Слово "столбица" означает "лесенка" по-болгарски. 12 нот октавы представлены как 13 ступенек лестницы (первая нота повторяется 2 раза) и отображаются как линии разной длины и цвета.
 
