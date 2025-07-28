@@ -1,4 +1,5 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+
   # 👇 КАК ПОЛЬЗОВАТЬСЯ ПРИЛОЖЕНИЕМ 👇
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_ShEVObUGnY?si=6YynsBcxRWGCZcx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -36,7 +37,22 @@
   Такое расстояние между двумя нотами, когда одна из них совершает ровно в 2 раза больше колебаний в секунду, чем другая, называется Октавой.
   Это первое расстояние, которое мы научимся определять на слух.
 <br><br>
+
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+
+## First Level - High or Low?    
+At the first difficulty level, you start by learning to recognize just two notes: one is **low**, the other is **high**.
+
+1. First, you’ll hear the **lowest note** as a reference.
+1. Then, one or more additional notes are played.          
+   - If it's the same **low** note → press the **bottom** button
+   - If it's **higher** → press the **top** button
+
+That’s it! On this level, you only have **two choices**—no complicated decisions.
+
+Just focus on telling if a note is higher or not!
+
+
 # 👇 WATCH THIS VIDEO BEFORE YOU START 👇
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZHIYL-_FjJU?si=lKB8L76MOuC2BJxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -75,3 +91,4 @@
   This distance between two notes when one is exactly two times more frequent than another is called Octave.
   This is the first difference we will learn to hear.
 <br><br>
+
