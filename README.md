@@ -1,4 +1,6 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+![](https://github.com/user-attachments/assets/f973c71c-f14a-40ba-b0fe-6fb06e3dc054)
+
 
   # 👇 КАК ПОЛЬЗОВАТЬСЯ ПРИЛОЖЕНИЕМ 👇
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_ShEVObUGnY?si=6YynsBcxRWGCZcx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
