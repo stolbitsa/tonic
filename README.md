@@ -33,3 +33,4 @@ Just focus on telling if a note is higher or not!
 
 <br><br>
 
+<img width="720" height="405" alt="first" src="https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772" />
