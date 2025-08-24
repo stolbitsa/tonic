@@ -1,36 +1,34 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-## Первый уровень — Выше или ниже?
+## 🎵 Первый уровень — Выше или Ниже? 🎵
 
-На первом уровне вам нужно научиться различать всего две ноты: **низкую** и **высокую**.
-1. Сначала вы услышите **низкую** ноту в качестве ориентира.
-1. Затем будут воспроизведены одна или несколько дополнительных нот.
-   - Если это та же **низкая** нота → нажмите **нижнюю** кнопку
-   - Если нота **выше** → нажмите **верхнюю** кнопку
+На первом уровне вам нужно научиться различать всего две ноты: **&nbsp;▁&nbsp;низкую&nbsp;▁&nbsp;** и **&nbsp;▔&nbsp;высокую&nbsp;▔**
+1. 🎵 Сначала вы услышите **&nbsp;▁&nbsp;низкую&nbsp;▁&nbsp;** ноту в качестве ориентира.
+1. 🎶 Потом прозвучит одна или несколько нот, которые вам нужно угадать.
+   - Если это та же **↙&nbsp;низкая** нота → нажмите **&nbsp;▁&nbsp;нижнюю&nbsp;▁&nbsp;** кнопку
+   - Если нота **↗&nbsp;выше** → нажмите **&nbsp;▔&nbsp;верхнюю&nbsp;▔&nbsp;** кнопку
 
-Вот и всё! На этом уровне у вас всего **два варианта** — никаких сложных решений.
+🎯 Вот и всё! На этом уровне у вас всего **два варианта** — никаких сложных решений.
 
-Главное — уловить, выше нота или нет.
+👂 Главное — уловить, выше нота или нет.
 
-![](https://github.com/user-attachments/assets/f973c71c-f14a-40ba-b0fe-6fb06e3dc054)
-
-<br><br>
+![](https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772)<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-## First Level - High or Low?    
-At the first difficulty level, you start by learning to recognize just two notes: one is **low**, the other is **high**.
+## 🎵 First Level - High or Low? 🎵
 
-1. First, you’ll hear the **lowest note** as a reference.
-1. Then, one or more additional notes are played.          
-   - If it's the same **low** note → press the **bottom** button
-   - If it's **higher** → press the **top** button
+At the first difficulty level, you start by learning to recognize just two notes: one is **&nbsp;▁&nbsp;low&nbsp;▁&nbsp;** , the other is **&nbsp;▔&nbsp;high&nbsp;▔&nbsp;**
 
-That’s it! On this level, you only have **two choices**—no complicated decisions.
-Just focus on telling if a note is higher or not!
+1. 🎵 First, you'll hear the **lowest note** as a reference.
+2. 🎶 Then, one or more notes are played that you must identify.
+   - If it's the same **↙&nbsp;low** note → press the **&nbsp;▁&nbsp;bottom&nbsp;▁&nbsp;** button
+   - If it's **↗&nbsp;higher** → press the **&nbsp;▔&nbsp;top&nbsp;▔&nbsp;** button
 
-![](https://github.com/user-attachments/assets/f973c71c-f14a-40ba-b0fe-6fb06e3dc054)
+🎯 That's it! On this level, you only have **two choices**—no complicated decisions.
+👂 Just focus on telling if a note is higher or not!
+
+![](https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772)
 
 <br><br>
 
-<img width="720" height="405" alt="first" src="https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772" />
