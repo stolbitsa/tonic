@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>tonic</repo>
-  <version>v1.0.15</version>
+  <version>v1.0.16</version>
   <next number="1" owner="stolbitsa" repo="master-and-servant-octaves"/>
   <readme>
     <ru>f98eb3f66cc0a160682a1b34358b4a1542ab158fb5613633f0b301193039f57d</ru>
@@ -99,6 +99,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="tonic8.mp4" size="2448151" type="video/mp4" volume="1">52a09cc8b4225a13739cb5dbf7839af3a29bd73b61ba59809e429a2082ccc093</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -122,6 +123,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>3</tonalities>
+    <video name="tonic9.mp4" size="2404878" type="video/mp4" volume="1">8076397ff318917ac3177d9abc58d03ed38b2b14fb8a338b45d718180f24284a</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
