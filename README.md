@@ -12,6 +12,8 @@
 
 👂 Главное — уловить, выше нота или нет.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fd2_XTWlMFY" title="YouTube video player" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![](https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772)<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
@@ -27,6 +29,8 @@ At the first difficulty level, you start by learning to recognize just two notes
 
 🎯 That's it! On this level, you only have **two choices**—no complicated decisions.
 👂 Just focus on telling if a note is higher or not!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CugvqtuxXnE" title="YouTube video player" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772)
 
