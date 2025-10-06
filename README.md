@@ -14,6 +14,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fd2_XTWlMFY" title="YouTube video player" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+https://rutube.ru/video/fb360284d147fe9190075455dde93cc7/
+
 ![](https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772)<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
