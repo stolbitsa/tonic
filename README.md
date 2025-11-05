@@ -38,3 +38,6 @@ At the first difficulty level, you start by learning to recognize just two notes
 
 <br><br>
 
+![](https://github.com/user-attachments/assets/74df6e27-d5de-47c7-a92b-a6dc4577a87e)
+
+
