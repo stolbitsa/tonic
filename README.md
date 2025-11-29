@@ -40,4 +40,7 @@ At the first difficulty level, you start by learning to recognize just two notes
 
 ![](https://github.com/user-attachments/assets/74df6e27-d5de-47c7-a92b-a6dc4577a87e)
 
+![iliyana-nikolova--muzikalnoto-nasledstvo](https://github.com/user-attachments/assets/3f9e5ceb-1981-48eb-b3c5-d79ce64790f1)
+
+
 
