@@ -12,11 +12,14 @@
 
 👂 Главное — уловить, выше нота или нет.
 
+
+![](https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fd2_XTWlMFY" title="YouTube video player" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://rutube.ru/video/fb360284d147fe9190075455dde93cc7/
-
-![](https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772)<br><br>
+Посмотреть на Rutube:  https://rutube.ru/video/fb360284d147fe9190075455dde93cc7/
+<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -32,15 +35,11 @@ At the first difficulty level, you start by learning to recognize just two notes
 🎯 That's it! On this level, you only have **two choices**—no complicated decisions.
 👂 Just focus on telling if a note is higher or not!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CugvqtuxXnE" title="YouTube video player" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](https://github.com/user-attachments/assets/98495bdd-7658-4edb-b489-382de1820772)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CugvqtuxXnE" title="YouTube video player" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br><br>
-
-![](https://github.com/user-attachments/assets/74df6e27-d5de-47c7-a92b-a6dc4577a87e)
-
-![iliyana-nikolova--muzikalnoto-nasledstvo](https://github.com/user-attachments/assets/3f9e5ceb-1981-48eb-b3c5-d79ce64790f1)
-
-
 
