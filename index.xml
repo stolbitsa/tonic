@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>tonic</repo>
-  <version>v1.0.21</version>
+  <version>v1.0.22</version>
   <next number="1" owner="stolbitsa" repo="master-and-servant-octaves"/>
   <readme>
     <ru>5c4879a228c621cb8237a77fbd3a961af968c0101bdc7ba156f69da529d90c4f</ru>
@@ -73,12 +73,12 @@
   <exercise number="6">
     <scale>major</scale>
     <bpm>68</bpm>
-    <lowestNote>1</lowestNote>
+    <lowestNote>18</lowestNote>
     <tonalities>3</tonalities>
     <video name="CelineD5_0.mp4" size="316957" type="video/mp4" volume="0.505">6bb1bbe59c6d206ec18cafdbe79208ec47a545752643e14167cb2ec0f68245c0</video>
     <notes>
-      <note number="1" values="1" ticks="134" durationTicks="85" ppq="192" velocity="0.803"/>
-      <note number="2" values="18" ticks="248" durationTicks="132" ppq="192" velocity="0.803"/>
+      <note number="1" values="18" ticks="128" durationTicks="85" ppq="192" velocity="0.803"/>
+      <note number="2" values="188" ticks="242" durationTicks="132" ppq="192" velocity="0.803"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -110,12 +110,12 @@
   <exercise number="9">
     <scale>major</scale>
     <bpm>90</bpm>
-    <lowestNote>1</lowestNote>
+    <lowestNote>18</lowestNote>
     <tonalities>3</tonalities>
     <video name="CelineNothing1.mp4" size="421264" type="video/mp4" volume="1">27121f8eb91f5320aba063e06428d674cb89d2d7a6e2a0ce99b9ccb734b83307</video>
     <notes>
-      <note number="1" values="1" ticks="175" durationTicks="151" ppq="192" velocity="0.354"/>
-      <note number="2" values="18" ticks="362" durationTicks="358" ppq="192" velocity="0.366"/>
+      <note number="1" values="18" ticks="137" durationTicks="151" ppq="192" velocity="0.509"/>
+      <note number="2" values="188" ticks="344" durationTicks="358" ppq="192" velocity="0.571"/>
     </notes>
   </exercise>
   <exercise number="10">
